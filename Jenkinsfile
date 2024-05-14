@@ -38,6 +38,6 @@ cp Dockerfile ${WORKSPACE}/build'''
 
   }
   environment {
-    DOCKER_IMAGE = 'hello_world'
+    DOCKER_IMAGE = 'DockerFile'
   }
 }
